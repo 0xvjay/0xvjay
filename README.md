@@ -16,4 +16,4 @@
 
 
 
-- ⚡ If your drink is too cold,just don't add ice.
+- ⚡ If your drink is too cold, just don't add ice.
